@@ -32,9 +32,10 @@ With increasing climate concerns and global efforts to reduce carbon emissions, 
   - 🚗 Top manufacturers (e.g., Tesla, Nissan)
   - 🗺️ State-wise distribution of EV adoption
 
-
-![Linear Regression Actual vs Predicted](Assets/Linear_Regression_Actual_vs_Predicted.png)
-
+![Monthly_EV_Sales_Trend](Assets/Monthly_EV_Sales_Trend.png)
+![Top10_States_by_Total_EVSales](Assets/Top10_States_by_Total_EVSales.png)
+![Sales_by_Vehicle_Class](Assets/Sales_by_Vehicle_Class.png)
+![Monthly_Seasonality_Heatmap](Assets/Monthly_Seasonality_Heatmap.png)
 
 
 - **Machine Learning Forecasting**:
@@ -42,6 +43,9 @@ With increasing climate concerns and global efforts to reduce carbon emissions, 
   - Trained XGBoost Regressor
   - Evaluated model with RMSE & MAE
   - Visualized predictions vs. actual sales
+
+![Time_Series_Forecasting](Assets/Time_Series_Forecasting.png)
+![Linear Regression Actual vs Predicted](Assets/Linear_Regression_Actual_vs_Predicted.png)
 
 ## 📈 What I Learned
 - Data cleaning and time-based feature engineering are critical for time-series ML.
