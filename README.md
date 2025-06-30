@@ -33,7 +33,8 @@ With increasing climate concerns and global efforts to reduce carbon emissions, 
   - 🗺️ State-wise distribution of EV adoption
 
 
-![Monthly EV Sales Trend](Assets/Monthly%EV%Sales%Trend/.png)
+![Monthly EV Sales Trend](/Assets/Monthly%EV%Sales%Trend.png)
+![Top 10 States by Total EV Sales](/Assets/Top10%States%by%Total%EV%Sales.png)
 
 - **Machine Learning Forecasting**:
   - Created time-series features
