@@ -33,9 +33,9 @@ With increasing climate concerns and global efforts to reduce carbon emissions, 
   - 🗺️ State-wise distribution of EV adoption
 
 
-![Linear Regression Actual vs Predicted](Assets/Linear%Regression%Actual%vs%Predicted.png)
+![Linear Regression Actual vs Predicted](Assets/Linear_Regression_Actual_vs_Predicted.png)
 
-![Top 10 States by Total EV Sales](/Assets/Top10%States%by%Total%EV%Sales.png)
+
 
 - **Machine Learning Forecasting**:
   - Created time-series features
